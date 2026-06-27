@@ -93,16 +93,28 @@ https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playl
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Documentary",Terra Mater WILD English (1080p)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary",INWILD (1080p)
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSTravel.us@SD" tvg-logo="https://i.imgur.com/A6GXhta.png" group-title="Documentary",PBS Travel (1080p)
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:-1 tvg-id="TED.us@SD" tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="Documentary",TED (1080p)
+https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+
 #EXTINF:-1 tvg-id="PBS.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="Documentary",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p)
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="Series",Unsolved Mysteries (720p)
+https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseForensicFiles.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Documentary",Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (720p)
+http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
 
 #EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD" tvg-logo="https://i.imgur.com/9EWffqx.png" group-title="Documentary",Impossible Quiz Show (1080p)
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
@@ -125,8 +137,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="INT" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports",Rally TV (1080p)
-https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" group-title="Sports",TVS Bowling Network (720p)
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten Sports Channel (1080p)
@@ -139,8 +149,8 @@ https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-li
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie@US" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-logo="https://i.imgur.com/84lMjSj.png" group-title="Sports",FanDuel Racing
-https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports",Rally TV (1080p)
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="Sports",FanDuel TV (720p)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (1080p) [Geo-blocked]
@@ -154,22 +164,33 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
 http://103.253.18.58:8000/play/a03o
 
+
+#EXTINF:-1 tvg-id="NEWKMOVIES.us@SD" tvg-logo="https://i.imgur.com/wCgirjc.png" group-title="Movies",NEW KMOVIES (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
+#EXTINF:-1 tvg-id="AsianCrush.us@SD" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Movies",AsianCrush (1080p)
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Movies",FashionTV Secrets (1080p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="Movies", Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="WLTVDT231.us@HD" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="Movies",WLTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+
 #EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC (720p)
 http://23.239.31.26:8989/amc/index.m3u8
-
-#EXTINF:-1 tvg-id="NEWKMOVIES.us@SD" tvg-logo="https://i.imgur.com/wCgirjc.png" group-title="Movies",NEW KMOVIES (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
-#EXTINF:-1 tvg-id="AsianCrush.us@SD" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Movies",AsianCrush (1080p)
-https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" group-title="Movies",Entertainment Tonight (1080p)
-https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="RevandRoll.us@SD" tvg-logo="" group-title="Movies",Rev and Roll (720p)
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" group-title="Movies",Entertainment Tonight (1080p)
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+
 #EXTINF:-1 tvg-id="RomedyNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",Romedy Now (576p)
 http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies",The Movie Club (1080p)
@@ -186,16 +207,6 @@ http://103.253.18.58:8000/play/a00o
 http://103.253.18.58:8000/play/a00r
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
 https://cdn-1.pishow.tv/live/276/master.m3u8
-
-	
-#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Movies",FashionTV Secrets (1080p)
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 tvg-id="RevryHer.us@SD" group-title="Movies", Rvry Her (720p)
-https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="Movies", Telemundo Al Dia
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="Movies", Telemundo Internacional
-http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVCinema.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="Movies",ETV Cinema HD (1080p)
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
